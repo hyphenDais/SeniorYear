@@ -1,0 +1,12 @@
+[02:54:54] Loaded Octane DLL: OctaneVR 3.06.6
+[02:55:01] Octane license (UNITY) activation result: OK
+[02:56:00] Cannot export to XML
+[02:56:00] Cannot export to XML
+[02:56:57] Cannot export to XML
+[02:57:25] Cannot export to XML
+[02:58:09] Cannot export to XML
+[02:59:09] DeInit API
+[03:00:30] Loaded Octane DLL: OctaneVR 3.06.6
+[03:00:34] Octane license (UNITY) activation result: OK
+[03:03:17] Cannot export to XML
+[03:05:21] DeInit API

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Holy and Blue", "Holy and Blue.csproj", "{66358272-0AD4-1D88-8DEA-81F484193898}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Holy and Blue.Plugins", "Holy and Blue.Plugins.csproj", "{245E22FC-2852-1B7C-0950-213B2D74EDDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Holy and Blue.Editor.Plugins", "Holy and Blue.Editor.Plugins.csproj", "{08466382-C039-DF0C-421A-B4899758AF43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66358272-0AD4-1D88-8DEA-81F484193898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66358272-0AD4-1D88-8DEA-81F484193898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66358272-0AD4-1D88-8DEA-81F484193898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66358272-0AD4-1D88-8DEA-81F484193898}.Release|Any CPU.Build.0 = Release|Any CPU
+		{245E22FC-2852-1B7C-0950-213B2D74EDDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{245E22FC-2852-1B7C-0950-213B2D74EDDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{245E22FC-2852-1B7C-0950-213B2D74EDDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{245E22FC-2852-1B7C-0950-213B2D74EDDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08466382-C039-DF0C-421A-B4899758AF43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08466382-C039-DF0C-421A-B4899758AF43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08466382-C039-DF0C-421A-B4899758AF43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08466382-C039-DF0C-421A-B4899758AF43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: 68c00f7013d5bae40a3fc5232232a595
+timeCreated: 1505982347
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Dome
+    100002: //RootNode
+    100004: group1
+    100006: Left_Door
+    100008: OceanFloor
+    100010: Pillar_1
+    100012: Pillar_2
+    100014: Pillar_3
+    100016: Pillar_4
+    100018: pointLight1
+    100020: pointLight2
+    100022: pointLight3
+    100024: pointLight4
+    100026: Right_Door
+    100028: sphere1
+    100030: spotLight1
+    100032: Stone
+    100034: Stone1
+    100036: Stone2
+    100038: Stone3
+    100040: Stone4
+    100042: Stone5
+    100044: Stone6
+    100046: Temple
+    100048: volumeLight1
+    400000: Dome
+    400002: //RootNode
+    400004: group1
+    400006: Left_Door
+    400008: OceanFloor
+    400010: Pillar_1
+    400012: Pillar_2
+    400014: Pillar_3
+    400016: Pillar_4
+    400018: pointLight1
+    400020: pointLight2
+    400022: pointLight3
+    400024: pointLight4
+    400026: Right_Door
+    400028: sphere1
+    400030: spotLight1
+    400032: Stone
+    400034: Stone1
+    400036: Stone2
+    400038: Stone3
+    400040: Stone4
+    400042: Stone5
+    400044: Stone6
+    400046: Temple
+    400048: volumeLight1
+    2300000: Dome
+    2300002: Left_Door
+    2300004: OceanFloor
+    2300006: Pillar_1
+    2300008: Pillar_2
+    2300010: Pillar_3
+    2300012: Pillar_4
+    2300014: Right_Door
+    2300016: Stone
+    2300018: Stone1
+    2300020: Stone2
+    2300022: Stone3
+    2300024: Stone4
+    2300026: Stone5
+    2300028: Stone6
+    3300000: Dome
+    3300002: Left_Door
+    3300004: OceanFloor
+    3300006: Pillar_1
+    3300008: Pillar_2
+    3300010: Pillar_3
+    3300012: Pillar_4
+    3300014: Right_Door
+    3300016: Stone
+    3300018: Stone1
+    3300020: Stone2
+    3300022: Stone3
+    3300024: Stone4
+    3300026: Stone5
+    3300028: Stone6
+    4300000: Left_Door
+    4300002: Right_Door
+    4300004: Pillar_1
+    4300006: Pillar_2
+    4300008: Pillar_3
+    4300010: Pillar_4
+    4300012: OceanFloor
+    4300014: Stone
+    4300016: Stone1
+    4300018: Stone2
+    4300020: Stone3
+    4300022: Stone4
+    4300024: Stone5
+    4300026: Stone6
+    4300028: Dome
+    7400000: Take 001
+    9500000: //RootNode
+    10800000: pointLight1
+    10800002: pointLight2
+    10800004: pointLight3
+    10800006: pointLight4
+    10800008: spotLight1
+    10800010: volumeLight1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
