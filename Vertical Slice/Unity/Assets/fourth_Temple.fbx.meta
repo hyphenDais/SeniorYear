@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 281290e157e9c8041bf7ce86707378ee
+timeCreated: 1505933239
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Dome
+    100002: Entryway
+    100004: //RootNode
+    100006: group1
+    100008: Left_Door
+    100010: OceanFloor
+    100012: Pillar_1
+    100014: Pillar_2
+    100016: Pillar_3
+    100018: Pillar_4
+    100020: pointLight1
+    100022: pointLight2
+    100024: pointLight3
+    100026: pointLight4
+    100028: Right_Door
+    100030: sphere1
+    100032: spotLight1
+    100034: Stone
+    100036: Stone1
+    100038: Temple
+    100040: volumeLight1
+    400000: Dome
+    400002: Entryway
+    400004: //RootNode
+    400006: group1
+    400008: Left_Door
+    400010: OceanFloor
+    400012: Pillar_1
+    400014: Pillar_2
+    400016: Pillar_3
+    400018: Pillar_4
+    400020: pointLight1
+    400022: pointLight2
+    400024: pointLight3
+    400026: pointLight4
+    400028: Right_Door
+    400030: sphere1
+    400032: spotLight1
+    400034: Stone
+    400036: Stone1
+    400038: Temple
+    400040: volumeLight1
+    2300000: Dome
+    2300002: Entryway
+    2300004: Left_Door
+    2300006: OceanFloor
+    2300008: Pillar_1
+    2300010: Pillar_2
+    2300012: Pillar_3
+    2300014: Pillar_4
+    2300016: Right_Door
+    2300018: Stone
+    2300020: Stone1
+    3300000: Dome
+    3300002: Entryway
+    3300004: Left_Door
+    3300006: OceanFloor
+    3300008: Pillar_1
+    3300010: Pillar_2
+    3300012: Pillar_3
+    3300014: Pillar_4
+    3300016: Right_Door
+    3300018: Stone
+    3300020: Stone1
+    4300000: Left_Door
+    4300002: Right_Door
+    4300004: Entryway
+    4300006: Pillar_1
+    4300008: Pillar_2
+    4300010: Pillar_3
+    4300012: Pillar_4
+    4300014: Dome
+    4300016: OceanFloor
+    4300018: Stone
+    4300020: Stone1
+    7400000: Take 001
+    9500000: //RootNode
+    10800000: pointLight1
+    10800002: pointLight2
+    10800004: pointLight3
+    10800006: pointLight4
+    10800008: spotLight1
+    10800010: volumeLight1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

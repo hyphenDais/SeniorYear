@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: afb065e0698f6e94c9c0ffe3f65742c4
+timeCreated: 1505934789
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Dome
+    100002: Entryway
+    100004: group1
+    100006: Left_Door
+    100008: Mipha_Trident_01:Miphas_Heart
+    100010: Mipha_Trident_01:Miphas_Spine
+    100012: Mipha_Trident_01:Miphas_Trident
+    100014: Mipha_Trident_01:MiphasFang11
+    100016: Mipha_Trident_01:MiphasFang12
+    100018: Mipha_Trident_01:MiphasFang2
+    100020: Mipha_Trident_01:MiphasFang_GRP
+    100022: Mipha_Trident_01:MiphasRing5
+    100024: Mipha_Trident_01:MiphasRing6
+    100026: Mipha_Trident_01:MiphasRing7
+    100028: Mipha_Trident_01:MiphasRings_GRP
+    100030: Mipha_Trident_01:pedestal
+    100032: Mipha_Trident_01:pTorus8
+    100034: OceanFloor
+    100036: Pillar_1
+    100038: Pillar_2
+    100040: Pillar_3
+    100042: Pillar_4
+    100044: pointLight1
+    100046: pointLight2
+    100048: pointLight3
+    100050: pointLight4
+    100052: Right_Door
+    100054: sphere1
+    100056: spotLight1
+    100058: Stone
+    100060: Stone1
+    100062: Temple
+    100064: //RootNode
+    100066: volumeLight1
+    400000: Dome
+    400002: Entryway
+    400004: group1
+    400006: Left_Door
+    400008: Mipha_Trident_01:Miphas_Heart
+    400010: Mipha_Trident_01:Miphas_Spine
+    400012: Mipha_Trident_01:Miphas_Trident
+    400014: Mipha_Trident_01:MiphasFang11
+    400016: Mipha_Trident_01:MiphasFang12
+    400018: Mipha_Trident_01:MiphasFang2
+    400020: Mipha_Trident_01:MiphasFang_GRP
+    400022: Mipha_Trident_01:MiphasRing5
+    400024: Mipha_Trident_01:MiphasRing6
+    400026: Mipha_Trident_01:MiphasRing7
+    400028: Mipha_Trident_01:MiphasRings_GRP
+    400030: Mipha_Trident_01:pedestal
+    400032: Mipha_Trident_01:pTorus8
+    400034: OceanFloor
+    400036: Pillar_1
+    400038: Pillar_2
+    400040: Pillar_3
+    400042: Pillar_4
+    400044: pointLight1
+    400046: pointLight2
+    400048: pointLight3
+    400050: pointLight4
+    400052: Right_Door
+    400054: sphere1
+    400056: spotLight1
+    400058: Stone
+    400060: Stone1
+    400062: Temple
+    400064: //RootNode
+    400066: volumeLight1
+    2300000: Dome
+    2300002: Entryway
+    2300004: Left_Door
+    2300006: Mipha_Trident_01:Miphas_Heart
+    2300008: Mipha_Trident_01:Miphas_Spine
+    2300010: Mipha_Trident_01:MiphasFang11
+    2300012: Mipha_Trident_01:MiphasFang12
+    2300014: Mipha_Trident_01:MiphasFang2
+    2300016: Mipha_Trident_01:MiphasRing5
+    2300018: Mipha_Trident_01:MiphasRing6
+    2300020: Mipha_Trident_01:MiphasRing7
+    2300022: Mipha_Trident_01:pedestal
+    2300024: OceanFloor
+    2300026: Pillar_1
+    2300028: Pillar_2
+    2300030: Pillar_3
+    2300032: Pillar_4
+    2300034: Right_Door
+    2300036: Stone
+    2300038: Stone1
+    3300000: Dome
+    3300002: Entryway
+    3300004: Left_Door
+    3300006: Mipha_Trident_01:Miphas_Heart
+    3300008: Mipha_Trident_01:Miphas_Spine
+    3300010: Mipha_Trident_01:MiphasFang11
+    3300012: Mipha_Trident_01:MiphasFang12
+    3300014: Mipha_Trident_01:MiphasFang2
+    3300016: Mipha_Trident_01:MiphasRing5
+    3300018: Mipha_Trident_01:MiphasRing6
+    3300020: Mipha_Trident_01:MiphasRing7
+    3300022: Mipha_Trident_01:pedestal
+    3300024: OceanFloor
+    3300026: Pillar_1
+    3300028: Pillar_2
+    3300030: Pillar_3
+    3300032: Pillar_4
+    3300034: Right_Door
+    3300036: Stone
+    3300038: Stone1
+    4300000: Left_Door
+    4300002: Right_Door
+    4300004: Entryway
+    4300006: Pillar_1
+    4300008: Pillar_2
+    4300010: Pillar_3
+    4300012: Pillar_4
+    4300014: Dome
+    4300016: OceanFloor
+    4300018: Stone
+    4300020: Stone1
+    4300022: Mipha_Trident_01:Miphas_Spine
+    4300024: Mipha_Trident_01:Miphas_Heart
+    4300026: Mipha_Trident_01:MiphasRing5
+    4300028: Mipha_Trident_01:MiphasRing6
+    4300030: Mipha_Trident_01:MiphasRing7
+    4300032: Mipha_Trident_01:MiphasFang2
+    4300034: Mipha_Trident_01:MiphasFang11
+    4300036: Mipha_Trident_01:MiphasFang12
+    4300038: Mipha_Trident_01:pedestal
+    7400000: Take 001
+    9500000: //RootNode
+    10800000: pointLight1
+    10800002: pointLight2
+    10800004: pointLight3
+    10800006: pointLight4
+    10800008: spotLight1
+    10800010: volumeLight1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
