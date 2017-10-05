@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/HolyandBlue_024.unity
+- path: Assets/HolyandBlue_028.unity
   isLoaded: 1
   isActive: 1
