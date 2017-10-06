@@ -53,6 +53,7 @@
   <ItemGroup>
      <Compile Include="Assets\Dynamic Flickering Light\FlickeringLight.cs" />
      <Compile Include="Assets\Lava_Flowing_Shader\Scripts\ScrollingUVs_Layers.cs" />
+     <Compile Include="Assets\Scripts\CausticsAnimation.cs" />
      <Compile Include="Assets\Scripts\DeepWater.cs" />
      <Compile Include="Assets\Scripts\DoorOpen.cs" />
      <Compile Include="Assets\Scripts\LearnToSwim.cs" />
