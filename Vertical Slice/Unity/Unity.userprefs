@@ -1,8 +1,11 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CausticsAnimation.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BatteryLife.cs">
     <Files>
       <File FileName="Assets\Scripts\CausticsAnimation.cs" Line="35" Column="1" />
+      <File FileName="Assets\Scripts\OxygenMeter.cs" Line="49" Column="59" />
+      <File FileName="Assets\Scripts\BatteryLife.cs" Line="24" Column="20" />
+      <File FileName="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" Line="128" Column="23" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
